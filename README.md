@@ -1,1 +1,1 @@
-[Ressource](https://pwn.college/computing-101/building-a-web-server/)
+[Ressources](https://pwn.college/computing-101/building-a-web-server/)
